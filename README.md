@@ -1,2 +1,3 @@
 # Тестирование веб-приложений
 # Тест-план для приложения "Интернет-магазин" https://docs.google.com/spreadsheets/d/1tTfxdI42p3nB0hG2eAweKh-k_hez7BBjkE_EZoeIRI8/edit?usp=sharing
+# Чек-лист и тест-кейсы для Корзины и Оплаты https://docs.google.com/spreadsheets/d/1iTRPdpwAbCVlzcC4ZSqmPr5fVf1CwkSnSsXspQzeRnU/edit?usp=sharing   https://app.qase.io/project/G9?previewMode=side&suite=258&tab=  [Тест-кейсы для Cart Management.pdf](https://github.com/user-attachments/files/18390763/-.Cart.Management.pdf) [Тест-кейсы для Order Management.pdf](https://github.com/user-attachments/files/18390766/-.Order.Management.pdf)
